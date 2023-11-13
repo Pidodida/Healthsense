@@ -5,6 +5,7 @@ The researchers have decided to create a healthcare device connected to an embed
 Each one of the objectives are successfully implemented.
 
 Folders:
+
 /dist- HealthSense APK
 
 /doc- Documents
