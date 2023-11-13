@@ -6,6 +6,9 @@ Each one of the objectives are successfully implemented.
 
 Folders:
 /dist- HealthSense APK
+
 /doc- Documents
+
 /img-assets- mobile app assets
+
 /src- HealthSense arduino ino file and HealthSense Web app source code
